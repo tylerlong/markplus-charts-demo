@@ -14,3 +14,5 @@ Output:
 Render:
 
 ![](./output.svg)
+
+You cannot see if the page is dark theme since the chart foreground color is black.
