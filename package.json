@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "markplus-charts": "^0.1.6"
+    "markplus-charts": "^0.1.7"
   },
   "devDependencies": {
     "@types/node": "^22.10.2"
