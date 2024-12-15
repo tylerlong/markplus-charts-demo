@@ -1,4 +1,4 @@
-import { generate } from "markplus-charts/src/index";
+import { generate } from "markplus-charts";
 import { writeFileSync } from "fs";
 
 const main = async () => {
